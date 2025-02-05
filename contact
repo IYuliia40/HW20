@@ -1,0 +1,15 @@
+<!-- pages/contact.html -->
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <title>Контакти</title>
+</head>
+<body>
+    <h1>Контакти</h1>
+    <p><big>Якщо хочете зустрітися з Баді, звертайтесь:</big></p>
+    <p><b>Телефон:</b> +38 (050) 000-00-00</p>
+    <p><b>Email:</b> buddy@gmail.com</p>
+    
+    <p><a href="../index.html">Назад на головну</a></p>
+</body>
+</html>
