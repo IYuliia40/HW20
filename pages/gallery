@@ -22,6 +22,6 @@
     </div>
     <p><a href="#top">Наверх</a></p>
     
-    <p><a href="index.html">Назад на головну</a></p>
+    <p><a href="../index">Назад на головну</a></p>
 </body>
 </html>
