@@ -1,0 +1,31 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <title>Мій собака Баді</title>
+</head>
+<body>
+
+    <div align="center">
+        <h1>Мій собака Баді</h1>
+        <img src="photo/photo1.jpg" alt="Баді" width="514" height="640">
+        <p><b>Порода:</b> Бігль</p>
+        <p><b>Вік:</b> 4 роки</p>
+        <p><b>Знає команди:</b> сидіти, стояти, до мене, голос, лежати, дай п'ять</p>
+    </div>
+
+    <p>Улюблені смаколики:</p>
+    <ul>
+        <li>фрукти</li>
+        <li>зоо смаколики</li>
+        <li>запечене м'ясо</li>
+    </ul>
+
+    
+    <h2>Перейти на:</h2>
+    <ul>
+        <li><a href="pages/gallery.html">Галерея</a></li>
+        <li><a href="pages/contact.html">Контакти</a></li>
+    </ul>
+</body>
+</html>
