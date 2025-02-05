@@ -4,7 +4,7 @@
 <head>
     <title>Мій собака Баді</title>
 </head>
-<body>
+<body bgcolor="#FAFAD2">
 
     <div align="center">
         <h1>Мій собака Баді</h1>
@@ -21,7 +21,7 @@
         <li>запечене м'ясо</li>
     </ul>
 
-    
+    <p><a href="#top">Наверх</a></p>
     <h2>Перейти на:</h2>
     <ul>
         <li><a href="pages/gallery.html">Галерея</a></li>

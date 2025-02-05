@@ -4,7 +4,7 @@
 <head>
     <title>Галерея Баді</title>
 </head>
-<body>
+<body bgcolor="#E0FFFF">
     <div align="center">
         <h1>Галерея Баді</h1>
         <img src="photo/photo2.jpg" alt="Відпочинок">
@@ -20,6 +20,7 @@
         <img src="photo/photo4.jpg" alt="Баді відпочиває">
         <p>Баді відпочиває</p>
     </div>
+    <p><a href="#top">Наверх</a></p>
     
     <p><a href="index.html">Назад на головну</a></p>
 </body>
