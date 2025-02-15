@@ -2,11 +2,12 @@
 <!DOCTYPE html>
 <html lang="uk">
 <head>
+    <link rel="stylesheet" href="style">
     <title>Мій собака Баді</title>
 </head>
 <body bgcolor="#FAFAD2">
 
-    <div align="center">
+    <div class="new">
         <h1>Мій собака Баді</h1>
         <img src="pages/photo/photo1.jpg" alt="Баді" width="514" height="640">
         <p><b>Порода:</b> Бігль</p>

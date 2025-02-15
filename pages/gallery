@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html lang="uk">
 <head>
+    <link rel="stylesheet" href="gallery2">
     <title>Галерея Баді</title>
 </head>
 <body bgcolor="#E0FFFF">
@@ -16,7 +17,7 @@
         <p>Баді маленький</p>
     </div>
 
-    <div align="center">
+    <div class="galleryy">
         <img src="photo/photo4.jpg" alt="Баді відпочиває">
         <p>Баді відпочиває</p>
     </div>
